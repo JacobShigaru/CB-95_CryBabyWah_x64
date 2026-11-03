@@ -1,0 +1,29 @@
+CB-95 Wah (CryBabyWah) — VST3 emulation of a Cry Baby style wah pedal
+Copyright (C) 2026  CryBabyWah Project
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+The full text of the GNU General Public License version 3 is available at
+https://www.gnu.org/licenses/gpl-3.0.txt
+
+--------------------------------------------------------------------------
+Third-party components
+--------------------------------------------------------------------------
+third_party/vst3sdk/pluginterfaces
+    VST 3 interface headers, (c) Steinberg Media Technologies GmbH.
+    Distributed by Steinberg under a dual license (GPLv3 or the proprietary
+    Steinberg VST3 License).  Building and distributing binaries that use
+    these headers requires compliance with the applicable license.  See
+    https://www.steinberg.net/sdklicenses
+
+Trademarks
+    "Cry Baby" is a trademark of Dunlop Manufacturing, Inc.  This project is an
+    independent emulation and is not affiliated with, endorsed by, or sponsored
+    by Dunlop.  The plug-in itself is named "CB-95 Wah".
